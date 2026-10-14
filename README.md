@@ -1,4 +1,4 @@
-# KVL and KCL Verification
+<img width="1002" height="512" alt="image" src="https://github.com/user-attachments/assets/d07e540f-f297-4e3b-97cf-302246fa0ab7" /># KVL and KCL Verification
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
@@ -78,24 +78,4 @@ b.  KCL:
 
 
 
-
 Tabulation:
-
-
-
-a.   KVL:
- <img width="1038" height="550" alt="image" src="https://github.com/user-attachments/assets/637c92b1-ef50-4c35-a791-5a5f3afaab1c" />
-
-
-
-
-
-b.  KCL:
-<img width="810" height="405" alt="image" src="https://github.com/user-attachments/assets/df6d65aa-4938-4ae2-a5e3-286cf8ce2e53" />
-
-
-
-
-RESULT:
-
-Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
