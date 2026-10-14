@@ -46,8 +46,6 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
-
-
 <img width="948" height="628" alt="KVL - Circuit Off" src="https://github.com/user-attachments/assets/90f99642-3e11-4f18-bfdb-8a3fa90d3132" />
 
 <img width="973" height="607" alt="KVL - Circuit On" src="https://github.com/user-attachments/assets/bad4417d-2279-4edb-b2c0-e49289c58d42" />
@@ -76,9 +74,6 @@ a. KVL:
 
 
 b.  KCL:
-
-
-
 <img width="911" height="1280" alt="KCL - Verification Calculation (2)" src="https://github.com/user-attachments/assets/74e7b2bc-9549-4bc4-8196-ff68a045a9a5" />
 
 
@@ -96,10 +91,6 @@ a.   KVL:
 
 
 b.  KCL:
-
-
-
-
 <img width="810" height="405" alt="image" src="https://github.com/user-attachments/assets/df6d65aa-4938-4ae2-a5e3-286cf8ce2e53" />
 
 
